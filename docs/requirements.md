@@ -1,7 +1,7 @@
 # Requirements
 
 - This first thing a user should see, is a little introduction about me with a picture. 
-- A section/page showing which technologies I've worked/ I have experience with.(Dont forget what you're doing currently)
+- A section/page showing which technologies I've worked/ experience with.(Dont forget what you're doing currently)
 - A section/page showcasing all my school projects 
 - A section/page for my side projects
 - A contact info section/page
