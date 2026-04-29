@@ -2,7 +2,7 @@
 
 > I have created wireframes for my portfolio pages, for each page are 4 options to choose from. To get the best choice, I've asked a couple people (individually) to take a look at these wireframes, while i explain the functions, and tell me which option they prever.
 
-[Link to wireframes](/docs/design/wireframes.md)
+[Link to wireframes](/docs/design/wireframes/wireframes-low-fidelity.md)
 
 ## Results
 
