@@ -1,6 +1,6 @@
 # Wireframes
 
-> I have created (lo-fi) wireframes the three most importants pages of my portfolio. For each page are 4 "different" layouts.
+> I have created (lo-fi) wireframes for the three most importants pages of my portfolio. For each page are 4 "different" layouts.
 
 ## Landing page
 
